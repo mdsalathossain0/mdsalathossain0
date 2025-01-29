@@ -1,4 +1,5 @@
-![logo](https://github.com/mdsalathossain0/mdsalathossain0/blob/main/I%60m%20Abu%20Salat%20Lemon.png)
+![my update logo](https://github.com/user-attachments/assets/c9737950-e084-4e55-a16d-0427ee3bacea)
+
 <h1 align="center">Hi 👋, I'm Abu Salat Lemon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
